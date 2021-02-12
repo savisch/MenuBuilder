@@ -1,0 +1,97 @@
+{
+    "meals":[
+        {
+            "breakfast":[
+                {
+                    "id":1,
+                    "name":"Kropsua"
+                },
+                {
+                    "id":2,
+                    "name":"Pancakes"
+                },
+                {
+                    "id":3,
+                    "name":"Waffles"
+                },
+                {
+                    "id":4,
+                    "name":"Sweet Potato Hash"
+                },
+                {
+                    "id":5,
+                    "name":"Steel Cut Oats"
+                },
+                {
+                    "id":6,
+                    "name":"Hashbrown Eggs"
+                },
+                {
+                    "id":7,
+                    "name":"Eggs & Sausage/Bacon"
+                },
+                {
+                    "id":8,
+                    "name":"Muesli"
+                }
+            ]
+        },
+        {
+            "lunch":[
+                {
+                    "id":1,
+                    "name":"Soup & Chips/Crackers"
+                },
+                {
+                    "id":2,
+                    "name":"Franken Beans"
+                },
+                {
+                    "id":3,
+                    "name":"Bean Burritos"
+                },
+                {
+                    "id":4,
+                    "name":"Quesadillas"
+                },
+                {
+                    "id":5,
+                    "name":"Ramen & Protein"
+                },
+                {
+                    "id":6,
+                    "name":"Dumplings"
+                }
+            ]
+        },
+        {
+            "dinner":[
+                {
+                    "id":1,
+                    "name":"Pork Ramen"
+                },
+                {
+                    "id":2,
+                    "name":"Fish Tacos"
+                },
+                {
+                    "id":3,
+                    "name":"Chicken, Rice & Veg"
+                },
+                {
+                    "id":4,
+                    "name":"Burgers & Veg"
+                },
+                {
+                    "id":5,
+                    "name":"Barbacoa with Brown Rice Pasta"
+                },
+                {
+                    "id":6,
+                    "name":"Couscous, Beans & Sausage"
+                }
+            ]
+        }
+        
+    ]
+}
